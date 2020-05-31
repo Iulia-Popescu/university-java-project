@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6ad5472-c06a-4cee-baf1-9284d8fa4cd8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ceIFBWgD2YPrS7UgsxVFBa9jAS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github/Ticket-Service" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ro.ticket-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6ad5472-c06a-4cee-baf1-9284d8fa4cd8" name="Default Changelist" comment="" />
+      <created>1590882525855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590882525855</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1590921752598">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1590921752598" />
+    <state width="1493" height="448" key="GridCell.Tab.0.bottom" timestamp="1590882890332">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="448" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590882890332" />
+    <state width="1493" height="448" key="GridCell.Tab.0.center" timestamp="1590882890332">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="448" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590882890332" />
+    <state width="1493" height="448" key="GridCell.Tab.0.left" timestamp="1590882890332">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="448" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590882890332" />
+    <state width="1493" height="448" key="GridCell.Tab.0.right" timestamp="1590882890332">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="448" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590882890332" />
+    <state x="209" y="134" key="new project wizard" timestamp="1590921508881">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="134" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1590921508881" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1590882843805">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1590882843805" />
+  </component>
+</project>
